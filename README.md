@@ -1,4 +1,4 @@
-# Motorcycle Rear Suspension
+# Multibody Analysis and Optimisation of a Motorcycle Rear Suspension
 
 Academic multibody modelling and design study completed at the University of Bologna using MSC Adams. Starting from supplied components and connection points, the project defines and verifies the mechanism constraints, evaluates transmitted forces and selects geometry and spring parameters that reduce joint loading while meeting a specified spring-force requirement.
 
